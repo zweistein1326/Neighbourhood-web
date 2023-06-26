@@ -1,0 +1,9 @@
+Basic functionality
+
+- Create diverse posts
+- Filter posts by category
+- search for relevant organization using search bar (category, location etc.) (Database design will be influenced)
+- Edit profile options
+- Posts actions (like, comment, share, delete, edit etc.)
+- Differentiate between home and trending
+- Follow topics rather than follow people
